@@ -1,0 +1,9 @@
+{
+  "name": "reset. \u2014 Your Daily Reset",
+  "short_name": "reset.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#e9e6dc",
+  "theme_color": "#e9e6dc",
+  "description": "A private habit, nutrition and progress tracker."
+}
